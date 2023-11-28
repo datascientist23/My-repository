@@ -1,2 +1,2 @@
-TOKEN = '6956328001:AAG7oswxFb-AZp5I7iNvtBNE6AEVu9CEEIg'
+TOKEN = 'my_token'
 print(type (TOKEN))
